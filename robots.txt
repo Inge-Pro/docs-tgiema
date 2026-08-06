@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-g2s3xn.gitart.me/sitemap.xml
